@@ -1,0 +1,4 @@
+#Tue Jun 09 12:50:44 BRT 2020
+base.0=/Users/joaoroberto/FlutterProjects/baser/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
